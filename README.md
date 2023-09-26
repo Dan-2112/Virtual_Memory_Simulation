@@ -10,11 +10,11 @@ Installation and Usage
 To install and build this tool run the following commands in a terminal:
 
 ```git clone https://github.com/Dan-2112/Virutual_Memory_Simulation```
-> To clone to repository to your machine.
+- To clone to repository to your machine.
 ```cd Virutual_Memory_Simulation```
-> To change your current directory to the cloned directory.
+- To change your current directory to the cloned directory.
 ```gcc -O2 -Wall -Wall stepX.c -o virtual_mem_simulator``` (Switch X in "stepX.c" to file that you wish to run.)
-> To run the compiled file.
+- To run the compiled file.
 ```./virtual_mem_simulator```
 
 Contributors
