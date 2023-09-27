@@ -1,4 +1,4 @@
-Virutual Memory Simulation
+Virtual Memory Simulation
 ==========================
 
 Virutual Memory Simulation project simulates the organization of virtual memory within a running process using a dynamic doubly-linked list in C.  The program allows for dynamic memory allocation and deallocation, provides leak-aware functions to monitor memory usage, and offers terminal-based controls for pushing and pulling values onto or off the stacks.
